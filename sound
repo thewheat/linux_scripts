@@ -1,0 +1,4 @@
+amixer -q set Master toggle
+amixer -q set PMC toggle
+amixer -q set Master 15+ unmute
+amixer -q set Master 15- unmute
